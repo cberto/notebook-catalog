@@ -1,0 +1,11 @@
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.exe.config
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.exe
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.pdb
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csprojAssemblyReference.cache
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.FormTipoMarca.resources
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.FormTipoNotebook.resources
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.Properties.Resources.resources
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csproj.GenerateResource.cache
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.exe
+C:\Users\camil\Desktop\program\Nueva carpeta\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.pdb
